@@ -1,0 +1,12 @@
+Imagine a T-Shirt:
+
+Front of T-Shirt:
+<<<<<<<<<<< HEAD
+
+===========
+
+Back of T-Shirt:
+===========
+
+
+>>>>>>>>>>> 2a335f3a76141d84e680963a2bc7057a769efb34
